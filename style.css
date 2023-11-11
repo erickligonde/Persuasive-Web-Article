@@ -1,0 +1,95 @@
+body{
+    background-color: antiquewhite;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h2{
+    margin-left: 200px;
+}
+
+
+img{
+    height:300px;
+    width: 600px;
+}
+.Title{
+    text-align: center;
+}
+
+.test{
+    position: relative;
+    display: flex;
+
+}
+
+.Intro{
+    display: inline-block;
+    margin-top: 50px;
+    width: 35000px;
+}
+
+.Consumption{
+    display: inline-block;
+    margin-left: 50px;
+    width: 35000px;
+
+
+}
+
+.Consumption img { 
+    position: relative;
+    width: 400px;
+    left: 130px;
+}
+
+.test2{
+    position: relative;
+    display: flex;    
+}
+
+.Labor{
+    display: inline-block;
+    width: 35000px;
+    margin-top: -420px;
+}
+.Labor img{
+    position: relative;
+    left: 30px;
+}
+
+
+.Pollution{
+    display: inline-block;
+    margin-left: 50px;
+    width: 35000px;
+}
+
+
+.test3{
+    position: relative;
+    display: flex;
+}
+
+.theClothes{
+    display: inline-block;
+    width: 35000px;
+    margin-top: -320px;
+
+}
+
+.theClothes h2 {
+    position: relative;
+    left: 70px;
+}
+
+.theClothes img {
+    position: relative;
+    left: 30px;
+    
+}
+
+.Greenwashing{
+    display: inline-block;
+    margin-left: 50px;
+    width: 35000px;
+}
